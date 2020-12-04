@@ -36,6 +36,7 @@
 O objetivo deste desafio foi criar um projeto backend para encurtar links. O sistema deve receber um link e retornar um link encurtado que, quando acessado, faz o redirecionamento para a página.
 
 [Acessar a aplicação](https://wiser-challenge.herokuapp.com/)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/3a90e1fb1a44088603a7)
 
 ## :computer: Opinião
 
