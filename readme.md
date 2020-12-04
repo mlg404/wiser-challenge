@@ -35,6 +35,8 @@
 
 O objetivo deste desafio foi criar um projeto backend para encurtar links. O sistema deve receber um link e retornar um link encurtado que, quando acessado, faz o redirecionamento para a página.
 
+[Acessar a aplicação](https://wiser-challenge.herokuapp.com/)
+
 ## :computer: Opinião
 
 Eu gostei muito de realizar o desafio. Foram requisitos bem sólidos e que faziam sentido na aplicação. Ao mesmo tempo que realizava o desafio, pude ler mais sobre diversos conceitos e também aprender.
